@@ -65,17 +65,16 @@ The portfolio includes four main sections:
 
 src/
 ├─ components/
-│ ├─ Navbar.js # Top navigation bar
-│ ├─ Profile.js # Profile/About page
-│ ├─ Portfolio.js # Projects showcase page
-│ ├─ Blog.js # Blog page
-│ ├─ Contact.js # Contact form page
-│ └─ images/ # Profile & project images
-├─ App.js # Main routes setup with BrowserRouter
-├─ App.css # Global styling
-├─ index.js # App entry point
-└─ index.css # Base styles
-
+│  ├─ Navbar.js        # Top navigation bar
+│  ├─ Profile.js       # Profile/About page
+│  ├─ Portfolio.js     # Projects showcase page
+│  ├─ Blog.js          # Blog page
+│  ├─ Contact.js       # Contact form page
+│  └─ images/          # Profile & project images
+├─ App.js              # Main routes setup with BrowserRouter
+├─ App.css             # Global styling
+├─ index.js            # App entry point
+└─ index.css           # Base styles
 
 ---
 
