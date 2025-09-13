@@ -60,19 +60,26 @@ The portfolio includes four main sections:
 [View Project Live](https://evra-jewlry.vercel.app/)
 
 ---
-## Folder Structure
+## Folder & Component Structure
+
 src/
 - ├─ components/
-- │  ├─ Navbar.js        # Top navigation bar
-- │  ├─ Profile.js       # Profile/About page
-- │  ├─ Portfolio.js     # Projects showcase page
-- │  ├─ Blog.js          # Blog page
-- │  ├─ Contact.js       # Contact form page
-- │  └─ images/          # Profile & project images
-- ├─ App.js              # Main routes setup with BrowserRouter
-- ├─ App.css             # Global styling
-- ├─ index.js            # App entry point
-- └─ index.css           # Base styles
+- │  ├─ Navbar.js       # Top navigation bar
+- │  ├─ Navbar.css      # Navbar styling
+- │  ├─ Profile.js      # Profile/About page
+- │  ├─ Profile.css     # Profile page styling
+- │  ├─ Portfolio.js    # Projects showcase page
+- │  ├─ Portfolio.css   # Portfolio page styling
+- │  ├─ Blog.js         # Blog page
+- │  ├─ Blog.css        # Blog page styling
+- │  ├─ Contact.js      # Contact form page
+- │  ├─ Contact.css     # Contact page styling
+- │  └─ images/         # Profile & project images
+- │     └─ amru.jpg     # Profile image
+- ├─ App.js             # Main routes setup with BrowserRouter
+- ├─ App.css            # Global styling
+- ├─ index.js           # App entry point
+- └─ index.css          # Base styles
 
 
 ---
