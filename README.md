@@ -1,69 +1,60 @@
-Amruta's Personal Portfolio [Link](https://amruta-s-portfolio-ma8y.vercel.app/)
-A modern, responsive, and dynamic personal portfolio built with React to showcase my skills, projects, and educational background. This website serves as a central hub to demonstrate my abilities in front-end and full-stack web development.
+# Amruta Kadam - Personal Portfolio & Projects
 
-Features
-About Me: A professional introduction and summary of my skills.
+[Live Portfolio](https://amruta-s-portfolio-ma8y.vercel.app/) | [Portfolio GitHub](https://github.com/KadamAmruta03/AMRUTA-S-PORTFOLIO) | [EVRA Jewelry GitHub](https://github.com/KadamAmruta03/EVRA_JEWLRY)
 
-Education: A detailed breakdown of my academic background.
+Welcome to my personal portfolio and project showcase! This repository highlights my journey in **web development** and **tech projects**, providing a comprehensive view of my skills, academic background, and hands-on experience.
 
-Projects: A dynamic, filterable gallery of my personal and academic projects.
+---
 
-Blog: A section to share insights and learnings from my projects.
+## About Me
 
-Contact: A contact form and links to my professional profiles.
+I am **Amruta Kadam**, a passionate web developer with a focus on **front-end and full-stack development**. This portfolio showcases my projects, skills, and educational achievements in the tech field. The website is designed to reflect my technical abilities and creativity through a modern, responsive, and dynamic interface.
 
-Dark Mode: A modern, easy-on-the-eyes dark theme for a better user experience.
+---
 
-Technologies Used
-This project is built as a single-page application using the React framework and leverages a suite of modern web technologies.
+## Portfolio Features
 
-Frontend:
+- **About Me:** Professional introduction and summary of my skills.
+- **Education:** Detailed overview of my academic journey, including school, college, and BCA studies.
+- **Projects:** Dynamic and filterable gallery of personal and academic projects.
+- **Blog:** Section to share insights, learning, and experiences from projects.
+- **Contact:** Contact form and links to professional profiles.
+- **Dark Mode:** User-friendly dark theme for an enhanced browsing experience.
 
-React: The core library for building the user interface.
+---
 
-React Router: Manages client-side routing, enabling seamless navigation between different sections (/, /portfolio, /blog, /contact) without page reloads. This is configured in App.js.
+## EVRA Jewelry Project
 
-JavaScript: Powers the interactive components and state management, as seen in Portfolio.js (for project filtering) and Profile.js.
+A small-scale **e-commerce website** for my jewelry business, **Evra Jewelry**, featuring:
 
-HTML & CSS: The foundation for the website's structure and styling. The app uses a global stylesheet (App.css) to define a dark mode theme with CSS variables, as well as specific stylesheets for each component (Profile.css, Portfolio.css, etc.) for modular styling.
+- Product listing with images and descriptions.
+- Shopping cart functionality.
+- Responsive design for seamless user experience.
+- Built with **React**, **Node.js**, and modern web technologies.
 
-Project Dependencies:
+---
 
-Node.js: The runtime environment used for development and to run the build process.
+## Technologies Used
 
-npm: The package manager for installing project dependencies.
+**Frontend:**
 
-Getting Started
-Follow these steps to get a local copy of the project up and running on your machine for development and testing purposes.
+- **React:** Core library for building dynamic user interfaces.
+- **React Router:** Enables smooth client-side navigation between sections (`/`, `/portfolio`, `/blog`, `/contact`).
+- **JavaScript:** Powers interactive components and state management.
+- **HTML & CSS:** Foundation for structure, styling, and responsive design.
+- **CSS Modules & App.css:** For modular styling and dark mode theme.
 
-Prerequisites
-Node.js installed on your machine.
+**Backend & Tools (EVRA Jewelry Project):**
 
-A package manager like npm (comes with Node.js) or yarn.
+- **Node.js:** Runtime environment for development and building.
+- **Vercel:** Deployment platform for hosting the portfolio live.
+- **Git & GitHub:** Version control and project repository management.
 
-Installation
-Clone the repository to your local machine:
+---
 
-git clone [https://github.com/KadamAmruta03/your-portfolio-repo.git](https://github.com/KadamAmruta03/your-portfolio-repo.git)
+## Installation (Portfolio Project)
 
-Navigate to the project directory:
+1. Clone the repository:
 
-cd your-portfolio-repo
-
-Install the required dependencies:
-
-npm install
-
-Running the Application
-To run the application in development mode:
-
-npm start
-
-This command starts the local development server and opens your portfolio in your default web browser at http://localhost:3000.
-
-Contact
-Email: kadamamruta0555@gmail.com
-
-GitHub: https://github.com/KadamAmruta03
-
-LinkedIn: https://www.linkedin.com/in/amruta-kadam-6b3bbb312
+```bash
+git clone https://github.com/KadamAmruta03/AMRUTA-S-PORTFOLIO.git
