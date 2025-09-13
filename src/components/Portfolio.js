@@ -9,7 +9,7 @@ const projectsData = [
     languages: ['React', 'CSS', 'JavaScript','Node.js'],
     domain: 'E-commerce',
     type: 'Frontend',
-    link: 'https://evra-jewlry-git-main-kadamamruta03s-projects.vercel.app/' 
+    link: 'https://evra-jewlry.vercel.app/' 
   },
   
   {
@@ -91,5 +91,6 @@ const Portfolio = () => {
     </div>
   );
 };
+
 
 export default Portfolio;
