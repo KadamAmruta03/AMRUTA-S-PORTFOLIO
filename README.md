@@ -1,6 +1,6 @@
 # Amruta Kadam - Personal Portfolio & Projects
 
-[Live Portfolio](https://evra-jewlry.vercel.app/) | [Portfolio GitHub](https://github.com/KadamAmruta03/EVRA_JEWLRY)  
+[Live Portfolio](https://amruta-s-portfolio-ma8y.vercel.app/) | [Portfolio GitHub](https://github.com/KadamAmruta03/AMRUTA-S-PORTFOLIO)  
 
 Welcome to my personal portfolio and project showcase! This repository demonstrates my journey in **web development** and **tech projects**, highlighting my hands-on experience, skills, and academic achievements.
 
