@@ -1,54 +1,95 @@
 # Amruta Kadam - Personal Portfolio & Projects
 
-[Live Portfolio](https://amruta-s-portfolio-ma8y.vercel.app/) | [Portfolio GitHub](https://github.com/KadamAmruta03/AMRUTA-S-PORTFOLIO) 
+[Live Portfolio](https://evra-jewlry.vercel.app/) | [Portfolio GitHub](https://github.com/KadamAmruta03/EVRA_JEWLRY)  
 
-Welcome to my personal portfolio and project showcase! This repository highlights my journey in **web development** and **tech projects**, providing a comprehensive view of my skills, academic background, and hands-on experience.
+Welcome to my personal portfolio and project showcase! This repository demonstrates my journey in **web development** and **tech projects**, highlighting my hands-on experience, skills, and academic achievements.
 
----
-
-## About Me
-
-I am **Amruta Kadam**, a passionate web developer with a focus on **front-end and full-stack development**. This portfolio showcases my projects, skills, and educational achievements in the tech field. The website is designed to reflect my technical abilities and creativity through a modern, responsive, and dynamic interface.
+This portfolio is built using **React**, featuring multiple pages, reusable components, and a clean, responsive design. It is fully deployed on **Vercel** for live access.
 
 ---
 
-## Portfolio Features
+## Project Overview
 
-- **About Me:** Professional introduction and summary of my skills.
-- **Education:** Detailed overview of my academic journey, including school, college, and BCA studies.
-- **Projects:** Dynamic and filterable gallery of personal and academic projects.
-- **Blog:** Section to share insights, learning, and experiences from projects.
-- **Contact:** Contact form and links to professional profiles.
-- **Dark Mode:** User-friendly dark theme for an enhanced browsing experience.
+The portfolio includes four main sections:
+
+1. **Profile Page**  
+   - Highlights my **About Me**, **Education**, and **Skills**.  
+   - Implements a **responsive layout** using CSS Flexbox.  
+   - Includes a **profile image container** with hover effects.  
+
+2. **Portfolio Page**  
+   - Showcases my projects, including the **Evra Jewelry E-commerce Front-End**.  
+   - Projects can be filtered by **domain** or **type** (Frontend, Full-stack, E-commerce).  
+   - Each project card displays **name, description, tech stack, and a live link**.  
+   - Uses **React state (`useState`)** for dynamic filtering and interactive UI.  
+
+3. **Blog Page**  
+   - A **single-page blog post** describing the Evra Jewelry project development journey.  
+   - Demonstrates **component-based structure**, CSS transitions, and typography styling.  
+   - Highlights **front-end concepts**, dynamic routing, and UI challenges.  
+
+4. **Contact Page**  
+   - Interactive contact form with validation.  
+   - Notification messages show **success or error states** dynamically.  
+   - Links to **social profiles** (LinkedIn, GitHub, Twitter, Email).  
+   - Fully responsive and styled using CSS variables for a consistent theme.  
+
+---
+
+## Key Features & Concepts Applied
+
+- **React & React Router:** Component-based architecture, dynamic routing (`/portfolio`, `/blog`, `/contact`)  
+- **React Hooks:** `useState` for state management (form inputs, notifications, project filters)  
+- **Responsive Design:** Flexbox and CSS Grid layouts for mobile and desktop views  
+- **CSS Variables & Theming:** Dark mode color scheme with accent highlights  
+- **Component Reusability:** Navbar, ProjectCard, NotificationMessage, FormInput components  
+- **Deployment:** Live site hosted on **Vercel** for real-world accessibility  
+
+---
+
+## Highlighted Project: Evra Jewelry E-commerce Front-End
+
+- **Description:** A responsive front-end mockup of an e-commerce site for a jewelry brand.  
+- **Tech Stack:** React, CSS, JavaScript, Node.js (for future scalability)  
+- **Key Learnings:**  
+  - Managing shopping cart data in React state  
+  - Dynamic routing for individual product pages (`/products/:productId`)  
+  - Creating reusable components for UI consistency  
+  - Emphasizing responsive design and user experience  
+
+[View Project Live](https://evra-jewlry.vercel.app/)
+
+---
+
+## Folder & Component Structure
+
+src/
+├─ components/
+│ ├─ Navbar.js # Top navigation bar
+│ ├─ Profile.js # Profile/About page
+│ ├─ Portfolio.js # Projects showcase page
+│ ├─ Blog.js # Blog page
+│ ├─ Contact.js # Contact form page
+│ └─ images/ # Profile & project images
+├─ App.js # Main routes setup with BrowserRouter
+├─ App.css # Global styling
+├─ index.js # App entry point
+└─ index.css # Base styles
+
 
 ---
 
 ## Technologies Used
 
-**Frontend:**
-
-- **React:** Core library for building dynamic user interfaces.
-- **React Router:** Enables smooth client-side navigation between sections (`/`, `/portfolio`, `/blog`, `/contact`).
-- **JavaScript:** Powers interactive components and state management.
-- **HTML & CSS:** Foundation for structure, styling, and responsive design.
-- **CSS Modules & App.css:** For modular styling and dark mode theme.
-
-**Backend & Tools (EVRA Jewelry Project):**
-
-- **Node.js:** Runtime environment for development and building.
-- **Vercel:** Deployment platform for hosting the portfolio live.
-- **Git & GitHub:** Version control and project repository management.
+- **Frontend:** React, JavaScript, HTML, CSS  
+- **Styling:** CSS Flexbox, CSS Grid, CSS variables, hover effects, transitions  
+- **Routing & State Management:** React Router, React Hooks (`useState`)  
+- **Deployment:** Vercel  
 
 ---
-
-## Installation (Portfolio Project)
-
-1. Clone the repository:
-git clone https://github.com/KadamAmruta03/AMRUTA-S-PORTFOLIO.git
 
 ## Contact
 
 - **Email:** [kadamamruta0555@gmail.com](mailto:kadamamruta0555@gmail.com)  
 - **GitHub:** [https://github.com/KadamAmruta03](https://github.com/KadamAmruta03)  
-- **LinkedIn:** [https://www.linkedin.com/in/amruta-kadam-6b3bbb312](https://www.linkedin.com/in/amruta-kadam-6b3bbb312)
-
+- **LinkedIn:** [https://www.linkedin.com/in/amruta-kadam-6b3bbb312](https://www.linkedin.com/in/amruta-kadam-6b3bbb312)  
