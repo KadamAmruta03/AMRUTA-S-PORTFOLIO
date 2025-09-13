@@ -55,8 +55,6 @@ A small-scale **e-commerce website** for my jewelry business, **Evra Jewelry**, 
 ## Installation (Portfolio Project)
 
 1. Clone the repository:
-
-```bash
 git clone https://github.com/KadamAmruta03/AMRUTA-S-PORTFOLIO.git
 
 ## Contact
