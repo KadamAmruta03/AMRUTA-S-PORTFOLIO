@@ -23,17 +23,6 @@ I am **Amruta Kadam**, a passionate web developer with a focus on **front-end an
 
 ---
 
-## EVRA Jewelry Project
-
-A small-scale **e-commerce website** for my jewelry business, **Evra Jewelry**, featuring:
-
-- Product listing with images and descriptions.
-- Shopping cart functionality.
-- Responsive design for seamless user experience.
-- Built with **React**, **Node.js**, and modern web technologies.
-
----
-
 ## Technologies Used
 
 **Frontend:**
