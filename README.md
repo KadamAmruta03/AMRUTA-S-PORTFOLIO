@@ -58,3 +58,10 @@ A small-scale **e-commerce website** for my jewelry business, **Evra Jewelry**, 
 
 ```bash
 git clone https://github.com/KadamAmruta03/AMRUTA-S-PORTFOLIO.git
+Contact
+
+Email: kadamamruta0555@gmail.com
+
+GitHub: https://github.com/KadamAmruta03
+
+LinkedIn: https://www.linkedin.com/in/amruta-kadam-6b3bbb312
